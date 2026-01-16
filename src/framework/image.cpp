@@ -182,6 +182,7 @@ bool Image::LoadPNG(const char* filename, bool flip_y)
 			k++;
 		}
 	}
+	//PRUEBA
 
 	// Flip pixels in Y
 	if (flip_y)
